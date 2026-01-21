@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342946943172",
+    "project_id": "ecopet-9adb6",
+    "storage_bucket": "ecopet-9adb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342946943172:android:77d240271bdc72543df991",
+        "android_client_info": {
+          "package_name": "com.ecopet.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3NxPAkBbNji5bnz4lqHMVW3636kW8Tcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
